@@ -1,0 +1,11 @@
+flask
+streamlit
+openai
+tesseract
+pytesseract
+pillow
+matplotlib
+pandas
+easyocr
+PyPDF2
+python-dotenv
